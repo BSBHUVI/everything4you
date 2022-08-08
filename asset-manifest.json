@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/everything4you/static/css/main.85e75640.css",
+    "main.js": "/everything4you/static/js/main.9c810aaf.js",
+    "static/js/787.ec704a7a.chunk.js": "/everything4you/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/everything4you/index.html",
+    "main.85e75640.css.map": "/everything4you/static/css/main.85e75640.css.map",
+    "main.9c810aaf.js.map": "/everything4you/static/js/main.9c810aaf.js.map",
+    "787.ec704a7a.chunk.js.map": "/everything4you/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85e75640.css",
+    "static/js/main.9c810aaf.js"
+  ]
+}
